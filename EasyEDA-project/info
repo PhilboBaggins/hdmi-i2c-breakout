@@ -1,6 +1,6 @@
 {
   "uuid": "493afbfe71bd42eb630fcc15d9b82cf1",
-  "path": "Offline/HDMI I2C breakout",
+  "path": "Offline/HDMI%20I2C%20breakout",
   "name": "HDMI I2C breakout",
   "content": "Breakout I2C pins from a HDMI connector",
   "created_at": "2020-08-24 01:14:30",
