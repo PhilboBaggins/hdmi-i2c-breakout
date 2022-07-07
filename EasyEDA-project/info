@@ -4,7 +4,7 @@
   "name": "HDMI I2C breakout",
   "content": "Breakout I2C pins from a HDMI connector",
   "created_at": "2020-08-24 01:14:30",
-  "updated_at": "2020-08-24 04:00:52",
+  "updated_at": "2022-07-07 22:11:51",
   "stick": "",
   "documents": [
     {
@@ -27,20 +27,6 @@
           "CustomPara"
         ],
         [
-          "Header-Female-2.54_1x4",
-          1,
-          "HDR-4X1/2.54",
-          "J2",
-          {
-            "BOM_Supplier": "LCSC",
-            "BOM_Manufacturer": "ReliaPro",
-            "BOM_Manufacturer Part": "Header-Female-2.54_1x4",
-            "BOM_Supplier Part": "C124413",
-            "puuid": "b73ecc946600486997b70f149e556e90",
-            "uuid": "7ff5b657d9f65ca285001e2b488e2e99"
-          }
-        ],
-        [
           "HDMI 19PM",
           1,
           "HDMI-SMD_19P-P0.50-M_HDMI-19PM",
@@ -53,19 +39,33 @@
             "puuid": "520f6a46188946c289def400febbd338",
             "uuid": "d32da4dad0d3429593a93338a36c88a8"
           }
+        ],
+        [
+          "Header-Female-2.54_1x4",
+          1,
+          "HDR-4X1/2.54",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Header-Female-2.54_1x4",
+            "BOM_Supplier Part": "C124413",
+            "puuid": "b73ecc946600486997b70f149e556e90",
+            "uuid": "7ff5b657d9f65ca285001e2b488e2e99"
+          }
         ]
       ],
-      "updateTime": 1598205652,
+      "updateTime": 1657195880,
       "createTime": 1598195695,
       "histories": [],
       "created_at": "2020-08-24 01:14:55",
-      "updated_at": "2020-08-24 04:00:52"
+      "updated_at": "2022-07-07 22:11:20"
     },
     {
       "uuid": "1bbc354a3350f0d4ce79cb79acb7c7eb",
       "puuid": "493afbfe71bd42eb630fcc15d9b82cf1",
-      "title": "PCB_2020-08-24_01-30-24",
-      "filename": "PCB_2020-08-24_01-30-24.json",
+      "title": "PCB_HDMI_I2C_breakout",
+      "filename": "PCB_HDMI_I2C_breakout.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -75,16 +75,16 @@
         "520f6a46188946c289def400febbd338": 1
       },
       "BOM": [],
-      "updateTime": 1598205602,
+      "updateTime": 1657195911,
       "createTime": 1598196624,
       "histories": [],
       "created_at": "2020-08-24 01:30:24",
-      "updated_at": "2020-08-24 04:00:02"
+      "updated_at": "2022-07-07 22:11:51"
     }
   ],
   "sort": [],
   "title": "HDMI I2C breakout",
   "foldername": "HDMI I2C breakout",
   "schfilename": "HDMI I2C breakout.json",
-  "schfilemtime": 1598205652972
+  "schfilemtime": 1657195880140
 }
