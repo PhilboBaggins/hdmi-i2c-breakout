@@ -4,6 +4,9 @@ Breakout I²C pins from a HDMI connector.
 
 ![./Capture.png](./Capture.png)
 
+![./Exports-v1.0/Top.svg](./Exports-v1.0/Top.svg)
+![./Exports-v1.0/Bottom.svg](./Exports-v1.0/Bottom.svg)
+
 Designed using [EasyEDA](https://easyeda.com/), mostly as a test of [EasyEDA](https://easyeda.com/) ... and so I could get this bag of HDMI connectors off my desk. Also it'll probably useful at some point.
 
 ## Licence
