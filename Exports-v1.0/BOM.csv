@@ -1,3 +1,3 @@
-ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
-"1"	"Header-Female-2.54_1x4"	"J2"	"HDR-4X1/2.54"	"1"	""	""	""	""	""
-"2"	"HDMI 19PM"	"J1"	"HDMI-SMD_19P-P0.50-M_HDMI-19PM"	"1"	""	""	""	""	""
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price
+1,Header-Female-2.54_1x4,J2,HDR-4X1/2.54,1,,,,,
+2,HDMI 19PM,J1,HDMI-SMD_19P-P0.50-M_HDMI-19PM,1,,,,,
